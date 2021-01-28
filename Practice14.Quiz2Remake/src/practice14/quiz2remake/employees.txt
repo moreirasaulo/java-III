@@ -1,0 +1,6 @@
+Jerry Boe*;2018-02-05;Furniture;Monday,Thursday,Friday
+Alice P.;2012-09-22;Shoes;Saturday,Sunday
+Martin Mathias*;2016-06-06;Kitchen;Monday,Tuesday,Wednesday,Thursday,Friday
+Emma W.;2016-07-07;Furniture;Thursday,Friday,Saturday,Sunday
+Tom P.;2019-11-10;Furniture;Saturday,Sunday,Monday
+Ginny M.*;2011-11-11;Shoes;Monday,Tuesday,Wednesday,Thursday
