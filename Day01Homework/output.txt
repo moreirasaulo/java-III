@@ -1,0 +1,3 @@
+Mamulengo;18to65;cats;America;25
+Mamute;Over65;parrots;Oceania;35
+Tomaro Noku;18to65;dogs;Asia;15
